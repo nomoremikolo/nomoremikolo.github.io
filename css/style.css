@@ -22,7 +22,7 @@ p:first-of-type{
     letter-spacing: 8px;
     color: #e6dbb9;
 }
-p:nth-of-type(2) a ,p:nth-of-type(3) a{
+p:nth-of-type(2) a{
     opacity: 0.9;
     color: #6398a2;
     text-decoration: none;
